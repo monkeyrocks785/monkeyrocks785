@@ -1,7 +1,17 @@
-# 💫 About Me:
-A coder who want to code his life his own way........
-# 💻 Tech Stack:
-![PYTHON](https://img.shields.io/badge/PYTHON-3670A0) ![HTML](https://img.shields.io/badge/HTML-F98A15) ![CSS](https://img.shields.io/badge/CSS-1579a8) ![CANVA](https://img.shields.io/badge/CANVA-15F9EB) ![ADOBE LIGHTROOM](https://img.shields.io/badge/ADOBELIGHTROOM-2B62FE) ![C](https://img.shields.io/badge/SCRATCH-FA4C00) ![ADOBE PHOTOSHOP](https://img.shields.io/badge/ADOBEPHOTOSHOP-2BA8FE)  ![MYSQL](https://img.shields.io/badge/MYSQL-blue) ![LATEX](https://img.shields.io/badge/LaTeX-lightgreen) ![FIGMA](https://img.shields.io/badge/FIGMA-purple)
+
+# Hi, I'm Mayank! 👋
+
+A BTech student, a tech-enthusiast, and a keen learner. Experienced in working as Freelancer, Intern and as well as on a contract based hiring. Participated in several hackathons. 
+## 🚀 About Me
+A coder who want to code his life his own way...
+
+## 🛠 Skills
+- Python, HTML, CSS, Prolog, LaTeX, etc. coding languages.
+- Hands-on experience on Linux OS.
+- Worked with databases, using - MySQL.
+- Graphics and UI-UX Designer, using - Canva, Figma, Creatie, Framer, etc.
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=monkeyrocks785&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monkeyrocks785&theme=radical&hide_border=false)<br/>
