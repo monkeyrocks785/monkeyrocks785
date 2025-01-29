@@ -15,7 +15,7 @@ A coder who want to code his life his own way...
 ![](https://github-readme-stats.vercel.app/api?username=monkeyrocks785&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monkeyrocks785&theme=radical&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyrocks785&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyrocks785&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=monkeyrocks785&theme=radical&no-frame=false&no-bg=true&margin-w=4)
