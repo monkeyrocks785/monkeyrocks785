@@ -11,7 +11,7 @@ A coder who want to code his life his own way...
 - Worked with databases, using - MySQL.
 - Graphics and UI-UX Designer, using - Canva, Figma, Creatie, Framer, etc.
 
-
+![](https://github-readme-stats.vercel.app/api?username=monkeyrocks785&show_icons=true&bg_color=00000000)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=monkeyrocks785&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monkeyrocks785&theme=radical&hide_border=false)<br/>
