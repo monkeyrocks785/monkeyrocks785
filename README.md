@@ -12,6 +12,7 @@ A coder who want to code his life his own way...
 - Graphics and UI-UX Designer, using - Canva, Figma, Creatie, Framer, etc.
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=monkeyrocks785&theme=radical&hide_border=false&show_icons=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monkeyrocks785&theme=radical&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyrocks785&theme=radical&hide_border=false&layout=compact)
 
