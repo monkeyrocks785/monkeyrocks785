@@ -32,19 +32,11 @@ while(alive){
 
 🛠 Tech Stack
 - 💻 Programming Languages
-- 🧩 CS & Tools
-Data Structures & Algorithms (C++)
-Linux (CLI power user)
-MySQL
-Git & GitHub
+- 🧩 CS & Tools - Data Structures & Algorithms (C++), Linux (CLI power user), MySQL, Git & GitHub
 
-- 🎨 UI / UX & Design
-Figma
-Canva
-Framer
-Creatie
+- 🎨 UI / UX & Design - Figma, Canva, Framer, Creatie
 
-- 📂 Featured Projects
+📂 Featured Projects
 
 🔹 IMPACT
 Inventory Management Tool for local shopkeepers
@@ -80,5 +72,6 @@ Arrays • STL • Recursion • Trees • Graphs • DP
 📧 Email: mayankgarg785mi@gmail.com
 
 🔗 LinkedIn: mayankgarg785
+
 
 
