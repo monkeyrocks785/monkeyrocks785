@@ -1,15 +1,19 @@
+<h1 align="center">Hey, I'm Mayank Garg 👋</h1>
+<h3 align="center">B.Tech | AI & Data Science | C++ DSA | Builder Mindset 🚀</h3>
 
-# Hi, I'm Mayank! 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayankgarg785/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:mayankgarg785mi@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
+  <a href="https://github.com/monkeyrocks785"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"></a>
+</p>
 
-A BTech student, a tech-enthusiast, and a keen learner. Experienced in working as Freelancer, Intern and as well as on a contract based hiring. Participated in several hackathons. 
+---
+
 ## 🚀 About Me
-A coder who want to code his life his own way...
 
-## 🛠 Skills
-- Python, HTML, CSS, Prolog, LaTeX, etc. coding languages.
-- Hands-on experience on Linux OS.
-- Worked with databases, using - MySQL.
-- Graphics and UI-UX Designer, using - Canva, Figma, Creatie, Framer, etc.
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyrocks785&theme=radical&hide_border=false&layout=compact)
+```cpp
+while(alive){
+    learn();
+    build();
+    break_limits();
+}
