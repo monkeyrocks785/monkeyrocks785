@@ -17,3 +17,26 @@ while(alive){
     build();
     break_limits();
 }
+
+🎓 B.Tech student in Artificial Intelligence & Data Science
+
+💻 Strong interest in problem-solving, DSA & system thinking
+
+🧠 Currently grinding DSA in C++ (public repo 📌)
+
+🛠 Love mixing tech + design to build usable products
+
+🏆 Silver Medalist – International Mathematics Championship 2022
+
+🧠 What I'm Currently Doing
+
+🔥 DSA in C++ (Arrays → Trees → Graphs → DP)
+
+📚 Strengthening core CS fundamentals
+
+🤖 Exploring ML + Deployment (Flask)
+
+✍️ Documenting everything I learn publicly
+
+🛠 Tech Stack
+💻 Programming Languages
