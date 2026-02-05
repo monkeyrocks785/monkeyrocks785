@@ -57,7 +57,7 @@ Arrays • STL • Recursion • Trees • Graphs • DP
 👉 Check pinned repositories below ⬇️
 
 📊 GitHub Stats
-<p align='center'>![](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyrocks785&theme=radical&hide_border=false&layout=compact)</p>
+<p align='center'><img href='https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyrocks785&theme=radical&hide_border=false&layout=compact'></p>
 
 🧪 Research
 
@@ -74,6 +74,7 @@ Arrays • STL • Recursion • Trees • Graphs • DP
 📧 Email: mayankgarg785mi@gmail.com
 
 🔗 LinkedIn: mayankgarg785
+
 
 
 
