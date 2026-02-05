@@ -57,21 +57,20 @@ Arrays • STL • Recursion • Trees • Graphs • DP
 👉 Check pinned repositories below ⬇️
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monkeyrocks785&show_icons=true&theme=radical" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyrocks785&layout=compact&theme=radical" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=monkeyrocks785&show_icons=true&theme=radical" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyrocks785&layout=compact&theme=radical" /> </p>
+
 🧪 Research
 
 📘 Perfect Numbers: Computational & Technical Exploration
 (Number Theory + Programming)
 
+
 📬 Let's Connect
-
 💼 Open to internships, freelance & collaborations
-
 🤝 Love working with curious builders
-
 📧 Email: mayankgarg785mi@gmail.com
-
 🔗 LinkedIn: mayankgarg785
+
 
 
 
