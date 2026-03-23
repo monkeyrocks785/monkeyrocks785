@@ -56,9 +56,11 @@ Arrays • STL • Recursion • Trees • Graphs • DP
 
 👉 Check pinned repositories below ⬇️
 
-📊 GitHub Stats  
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyrocks785&theme=radical&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyrocks785&theme=radical&hide_border=false&layout=compact" width="100%" />
+</p>
 
 🧪 Research
 
