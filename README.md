@@ -29,7 +29,6 @@
 
 ## 🕸️ `whoami`
 
-```cpp
 #include <life.h>
 using namespace universe;
 
@@ -163,4 +162,4 @@ text
 <i>"Whatever it takes."</i> — Tony Stark
 <i>"Anyone can wear the mask. You could wear the mask."</i> — Miles Morales
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" width="100%"/></div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" width="100%"/></div>
