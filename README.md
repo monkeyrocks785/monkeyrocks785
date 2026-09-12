@@ -191,7 +191,7 @@ public:
 
 <div align="center">
   
-<img src="https://leetcard.jacoblin.cool/mayankgarg785?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=15" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/mayank785?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=15" alt="LeetCode Stats"/>
 
 </div>
 
