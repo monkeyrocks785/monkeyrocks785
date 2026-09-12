@@ -6,7 +6,7 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=FF2E63&center=true&vCenter=true&multiline=false&width=800&height=60&lines=With+great+code+comes+great+responsibility+🕸️;AI+%26+Data+Science+Engineer+in+the+making+🤖;C%2B%2B+DSA+Grinder+%7C+LeetCode+Warrior+⚔️;Builder+with+a+Designer's+Eye+🎨;I+am+...+Iron+Coder+🔴🟡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=FF2E63&center=true&vCenter=true&multiline=false&width=800&height=60&lines=With+great+code+comes+great+responsibility+🕸️;AI+%26+Data+Science+Engineer+under+work...+🤖;C%2B%2B+DSA+Grinder+%7C+LeetCode+Beginner+⚔️;Builder+with+a+Designer's+Eye+🎨;I+am+...+Iron+Coder+🔴🟡)](https://git.io/typing-svg)
 
 </div>
 
